@@ -108,4 +108,4 @@ To https://github.com/arun-s1337/Agrocd.git
 PS C:\Users\ACER\OneDrive\Desktop\Arun-devops> git push -u origin staging
 branch 'staging' set up to track 'origin/staging'.
 Everything up-to-date
-PS C:\Users\ACER\OneDrive\Desktop\Arun-devops>     
+PS C:\Users\ACER\OneDrive\Desktop\Arun-devops>     git remote set-url origin https://github.com/arun-s1337/git-devops.gitgit remote set-url origin https://github.com/arun-s1337/git-devops.git
