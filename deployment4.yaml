@@ -9,4 +9,4 @@ spec:
       app: my-app
   template:
     metadata:
-    
+    git remote set-url origin https://github.com/arun-s1337/git-devops.git
